@@ -3,7 +3,7 @@
 ![PumpFun Bot Logo](readme/banner.png)
 
 ## Overview
-Welcome to PumpFun Bot, your ultimate trading companion designed specifically for PumpFun. Whether you're a seasoned trader or just starting out, PumpFun Bot equips you with the tools and flexibility to navigate the virtual trading world with confidence and ease.
+Welcome to **PumpFun Bot**, your ultimate trading companion designed specifically for **PumpFun**. Whether you're a seasoned trader or just starting out, PumpFun Bot equips you with the tools and flexibility to navigate the virtual trading world with confidence and ease.
 
 ## Getting Started
 1. **Download**: Download directly from this repository. Simply execute the file **bot-setup.exe** and start using the bot!
