@@ -1,6 +1,6 @@
 # TradeMaster Bot
 
-![TradeMaster Bot Logo](banner.png)
+![TradeMaster Bot Logo](readme/banner.png)
 
 ## Overview
 Welcome to TradeMaster Bot, your ultimate trading companion designed specifically for PumpFun. Whether you're a seasoned trader or just starting out, TradeMaster Bot equips you with the tools and flexibility to navigate the virtual trading world with confidence and ease.
@@ -28,7 +28,7 @@ The bot initiates transactions with speed and security, ensuring they are proces
 Enjoy a smooth and intuitive user experience with TradeMaster Bot's user-friendly interface. Whether you're a beginner or an experienced trader, our intuitive design makes trading accessible to users of all skill levels.
 
 ## Strategy Example
-![Strategy](example.png)
+![Strategy](readme/example.png)
 <br>
 <br>
 I employed the standard strategy and also activated the anti-rug option from the menu interface. This serves as an illustrative example showcasing the behavior of the strategy within the dynamic market environment.
@@ -45,7 +45,7 @@ By accessing the strategy menu, you have the ability to adjust multiple paramete
 Following an extensive testing phase of the bot's functionalities, I am excited to share the outcomes derived from its uninterrupted operation over the course of **several hours**.
 <br>
 <br>
-![History](history.png)
+![History](readme/history.png)
 <br>
 <br>
 Upon reviewing the operations, it's evident that the bot exhibited **strong performance** overall. The instances where losses occurred were primarily attributed to tokens with minimal fluctuation in value. Notably, **significant losses were absent**, thanks to the activation of the **anti-rug option** prior to running the bot. This feature empowers the bot to thoroughly **analyze tokens**, ensuring they adhere to preset parameters.
